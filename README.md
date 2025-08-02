@@ -57,7 +57,7 @@ This project uses:
 ## 📷 Example (Screenshot)
 
 *(Add your screenshot here if you have one)*  
-Example: `screenshot.png`
+Example: `Research Agent Reference Img/Screenshot 2025-08-02 164637.png`
 
 ---
 
